@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TextureAtlas imagePath="font-atlas@2x.png">
-    <!-- Created with TexturePacker -->
-    <!-- http://texturepacker.com -->
-    <!-- $TexturePacker:SmartUpdate:c0acb16625a09ff2114e1799b3b4cf6d$ -->
-    <SubTexture name="CheekyMammoth" x="0" y="0" width="510" height="246" frameX="0" frameY="0" frameWidth="512" frameHeight="256"/>
-</TextureAtlas>
