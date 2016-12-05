@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TextureAtlas imagePath="lite-atlas@2x.png">
+    <!-- Created with TexturePacker -->
+    <!-- http://texturepacker.com -->
+    <!-- $TexturePacker:SmartUpdate:ceb1321a13c13d55f02db170e58c5e6a$ -->
+    <SubTexture name="lite-achievements" x="120" y="46" width="94" height="84" frameX="-2" frameY="-6" frameWidth="96" frameHeight="96"/>
+    <SubTexture name="lite-brandy-slick" x="120" y="0" width="96" height="45" frameX="0" frameY="-1" frameWidth="96" frameHeight="47"/>
+    <SubTexture name="lite-buy-now" x="149" y="131" width="80" height="80"/>
+    <SubTexture name="lite-ghost-ship" x="0" y="155" width="81" height="96"/>
+    <SubTexture name="lite-hand-of-davy" x="82" y="155" width="66" height="96"/>
+    <SubTexture name="lite-hat" x="0" y="0" width="119" height="96" frameX="0" frameY="0" frameWidth="121" frameHeight="96"/>
+    <SubTexture name="lite-navy-colors" x="0" y="97" width="94" height="57" frameX="-1" frameY="0" frameWidth="96" frameHeight="59"/>
+</TextureAtlas>

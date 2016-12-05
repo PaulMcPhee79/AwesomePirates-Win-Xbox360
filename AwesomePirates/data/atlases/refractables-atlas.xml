@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TextureAtlas imagePath="refractables.png">
+    <!-- Created with TexturePacker -->
+    <!-- http://texturepacker.com -->
+    <!-- $TexturePacker:SmartUpdate:de9992dac25ddca0dd7cfa978d6b8487$ -->
+  <SubTexture name="netR" x="0" y="0" width="320" height="320"/>
+  <SubTexture name="brandy-slickR" x="0" y="320" width="256" height="64"/>
+  <SubTexture name="pool-of-acidR" x="0" y="384" width="96" height="96"/>
+  <SubTexture name="pool-of-magmaR" x="96" y="384" width="96" height="96"/>
+  <SubTexture name="sk-poolR-p0" x="192" y="384" width="96" height="96"/>
+  <SubTexture name="sk-poolR-p1" x="288" y="384" width="96" height="96"/>
+  <SubTexture name="sk-poolR-p2" x="384" y="384" width="96" height="96"/>
+  <SubTexture name="sk-poolR-p3" x="384" y="288" width="96" height="96"/>
+  <SubTexture name="wakeR" x="352" y="0" width="32" height="32"/>
+</TextureAtlas>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TextureAtlas imagePath="ghost-railing-atlas@2x.png">
+    <!-- Created with TexturePacker -->
+    <!-- http://texturepacker.com -->
+    <!-- $TexturePacker:SmartUpdate:6750f4bcb48c2860c75b215de7003810$ -->
+    <SubTexture name="ghost-railing" x="0" y="0" width="32" height="70" frameX="0" frameY="0" frameWidth="32" frameHeight="128"/>
+</TextureAtlas>

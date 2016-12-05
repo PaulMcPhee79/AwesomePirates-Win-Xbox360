@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TextureAtlas imagePath="ocean0_N.png">
+    <!-- Created with TexturePacker -->
+    <!-- http://texturepacker.com -->
+    <!-- $TexturePacker:SmartUpdate:245e0afe2bd5f9f4ac0b8e5aaa6d2afb$ -->
+    <SubTexture name="ocean0_N" x="0" y="0" width="256" height="256"/>
+</TextureAtlas>

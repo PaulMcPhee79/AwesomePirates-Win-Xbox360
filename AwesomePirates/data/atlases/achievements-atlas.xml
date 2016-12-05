@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TextureAtlas imagePath="achievements-texture.png">
+    <!-- Created with TexturePacker -->
+    <!-- http://texturepacker.com -->
+    <!-- $TexturePacker:SmartUpdate:f5395026f0ef32630a0f0346a41d5bc3$ -->
+    <SubTexture name="achievement-banner" x="0" y="0" width="300" height="180" frameX="0" frameY="-4" frameWidth="300" frameHeight="186"/>
+    <SubTexture name="captain-tier-complete" x="426" y="0" width="64" height="64"/>
+    <SubTexture name="captain-tier-incomplete" x="264" y="182" width="64" height="64"/>
+    <SubTexture name="ethereal-help" x="302" y="0" width="122" height="146" frameX="-14" frameY="-1" frameWidth="150" frameHeight="150"/>
+    <SubTexture name="pirate-tier-complete" x="198" y="182" width="64" height="64"/>
+    <SubTexture name="pirate-tier-incomplete" x="132" y="182" width="64" height="64"/>
+    <SubTexture name="swabby-tier-complete" x="66" y="182" width="64" height="64"/>
+    <SubTexture name="swabby-tier-incomplete" x="0" y="182" width="64" height="64"/>
+</TextureAtlas>

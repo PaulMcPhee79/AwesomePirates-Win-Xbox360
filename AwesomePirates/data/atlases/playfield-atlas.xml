@@ -1,0 +1,344 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://texturepacker.com-->
+<!-- $TexturePacker:SmartUpdate:d5236a4597f5d2db7d102f88e2d76284$ -->
+<TextureAtlas imagePath="playfield-texture.png">
+    <SubTexture name="7-Man-o'-War-helm" x="1810" y="278" width="236" height="236" frameX="-10" frameY="-11" frameWidth="256" frameHeight="256"/>
+    <SubTexture name="7-Perisher-barrel" x="1292" y="554" width="121" height="55"/>
+    <SubTexture name="7-Perisher-base" x="1688" y="395" width="109" height="59"/>
+    <SubTexture name="7-Perisher-wheel" x="716" y="1167" width="28" height="28"/>
+    <SubTexture name="8-Speedboat-helm" x="1600" y="855" width="178" height="178" frameX="-39" frameY="-40" frameWidth="256" frameHeight="256"/>
+    <SubTexture name="abyssal-shot_00" x="1148" y="1049" width="32" height="32"/>
+    <SubTexture name="abyssal-shot_01" x="1216" y="1043" width="32" height="32"/>
+    <SubTexture name="abyssal-shot_02" x="1260" y="1033" width="32" height="32"/>
+    <SubTexture name="abyssal-shot_03" x="1310" y="1029" width="32" height="32"/>
+    <SubTexture name="abyssal-shot_04" x="1364" y="999" width="32" height="32"/>
+    <SubTexture name="abyssal-shot_05" x="1418" y="994" width="32" height="32"/>
+    <SubTexture name="abyssal-shot_06" x="1460" y="988" width="32" height="32"/>
+    <SubTexture name="abyssal-shot_07" x="1562" y="954" width="32" height="32"/>
+    <SubTexture name="abyssal-surge" x="632" y="326" width="256" height="232"/>
+    <SubTexture name="beach" x="632" y="2" width="396" height="322"/>
+    <SubTexture name="blood" x="1061" y="1082" width="32" height="32"/>
+    <SubTexture name="brandy-flame_00" x="323" y="1249" width="16" height="16"/>
+    <SubTexture name="brandy-flame_01" x="1600" y="802" width="14" height="16" frameX="-2" frameY="0" frameWidth="16" frameHeight="16"/>
+    <SubTexture name="brandy-flame_02" x="323" y="1231" width="16" height="16"/>
+    <SubTexture name="brandy-flame_03" x="323" y="1213" width="16" height="16"/>
+    <SubTexture name="brandy-flame_04" x="770" y="1016" width="16" height="14" frameX="0" frameY="-2" frameWidth="16" frameHeight="16"/>
+    <SubTexture name="brandy-flame_05" x="1600" y="784" width="14" height="16" frameX="-1" frameY="0" frameWidth="16" frameHeight="16"/>
+    <SubTexture name="brandy-slick-icon" x="2" y="733" width="94" height="94" frameX="-1" frameY="-1" frameWidth="96" frameHeight="96"/>
+    <SubTexture name="buoy" x="1308" y="484" width="11" height="11"/>
+    <SubTexture name="camouflage-icon" x="135" y="730" width="94" height="94" frameX="-1" frameY="-1" frameWidth="96" frameHeight="96"/>
+    <SubTexture name="cannon-burst-smoke_00" x="1783" y="752" width="192" height="86" frameX="-3" frameY="-19" frameWidth="226" frameHeight="128"/>
+    <SubTexture name="cannon-flash" x="1288" y="722" width="96" height="47" frameX="0" frameY="-2" frameWidth="96" frameHeight="53"/>
+    <SubTexture name="cannon-smoke-small_00" x="619" y="1212" width="26" height="34" frameX="-6" frameY="-5" frameWidth="40" frameHeight="40"/>
+    <SubTexture name="cannon-smoke-small_01" x="593" y="730" width="36" height="36" frameX="-2" frameY="-2" frameWidth="40" frameHeight="40"/>
+    <SubTexture name="cannon-smoke-small_02" x="1376" y="959" width="40" height="38" frameX="0" frameY="0" frameWidth="40" frameHeight="40"/>
+    <SubTexture name="cannon-smoke-small_03" x="1418" y="954" width="40" height="38" frameX="0" frameY="0" frameWidth="40" frameHeight="40"/>
+    <SubTexture name="cannon-smoke_00" x="890" y="684" width="200" height="116" frameX="0" frameY="-38" frameWidth="226" frameHeight="170"/>
+    <SubTexture name="cannon-smoke_01" x="1116" y="707" width="170" height="100" frameX="-18" frameY="-34" frameWidth="226" frameHeight="170"/>
+    <SubTexture name="cannon-smoke_02" x="1116" y="577" width="172" height="128" frameX="-18" frameY="-9" frameWidth="226" frameHeight="170"/>
+    <SubTexture name="cannon-smoke_03" x="1418" y="636" width="196" height="146" frameX="-19" frameY="-7" frameWidth="226" frameHeight="170"/>
+    <SubTexture name="cannon-smoke_04" x="632" y="609" width="216" height="126" frameX="-8" frameY="0" frameWidth="226" frameHeight="170"/>
+    <SubTexture name="clear-texture" x="2040" y="36" width="0" height="0" frameX="0" frameY="0" frameWidth="1" frameHeight="1"/>
+    <SubTexture name="cloud0" x="890" y="505" width="224" height="136"/>
+    <SubTexture name="cloud1" x="1814" y="140" width="224" height="136"/>
+    <SubTexture name="cloud2" x="1814" y="2" width="224" height="136"/>
+    <SubTexture name="cove-future" x="1780" y="908" width="180" height="148" frameX="-9" frameY="-2" frameWidth="200" frameHeight="156"/>
+    <SubTexture name="cove" x="1308" y="247" width="112" height="168"/>
+    <SubTexture name="crimson-shot_00" x="1528" y="954" width="32" height="32"/>
+    <SubTexture name="crimson-shot_01" x="1494" y="954" width="32" height="32"/>
+    <SubTexture name="crimson-shot_02" x="1460" y="954" width="32" height="32"/>
+    <SubTexture name="crimson-shot_03" x="848" y="1088" width="32" height="32"/>
+    <SubTexture name="crimson-shot_04" x="814" y="1088" width="32" height="32"/>
+    <SubTexture name="crimson-shot_05" x="950" y="1070" width="32" height="32"/>
+    <SubTexture name="crimson-shot_06" x="882" y="1086" width="32" height="32"/>
+    <SubTexture name="crimson-shot_07" x="916" y="1070" width="32" height="32"/>
+    <SubTexture name="death-from-the-deep-icon" x="327" y="634" width="94" height="94" frameX="-1" frameY="-1" frameWidth="96" frameHeight="96"/>
+    <SubTexture name="death-grip-emerge_00" x="1977" y="824" width="67" height="61" frameX="-28" frameY="-25" frameWidth="113" frameHeight="113"/>
+    <SubTexture name="death-grip-emerge_01" x="631" y="737" width="85" height="71" frameX="-14" frameY="-21" frameWidth="113" frameHeight="113"/>
+    <SubTexture name="death-grip-emerge_02" x="506" y="730" width="85" height="71" frameX="-14" frameY="-21" frameWidth="113" frameHeight="113"/>
+    <SubTexture name="death-grip-emerge_03" x="415" y="730" width="89" height="81" frameX="-13" frameY="-14" frameWidth="113" frameHeight="113"/>
+    <SubTexture name="death-grip-emerge_04" x="1684" y="666" width="97" height="91" frameX="-8" frameY="-11" frameWidth="113" frameHeight="113"/>
+    <SubTexture name="death-grip-submerge_00" x="231" y="730" width="91" height="93" frameX="-10" frameY="-5" frameWidth="113" frameHeight="113"/>
+    <SubTexture name="death-grip-submerge_01" x="2" y="829" width="91" height="93" frameX="-10" frameY="-5" frameWidth="113" frameHeight="113"/>
+    <SubTexture name="death-grip-submerge_02" x="324" y="730" width="89" height="93" frameX="-9" frameY="-5" frameWidth="113" frameHeight="113"/>
+    <SubTexture name="death-grip-submerge_03" x="128" y="1040" width="57" height="59" frameX="-26" frameY="-22" frameWidth="113" frameHeight="113"/>
+    <SubTexture name="death-grip-submerge_04" x="1630" y="528" width="55" height="53" frameX="-30" frameY="-25" frameWidth="113" frameHeight="113"/>
+    <SubTexture name="deck-idol" x="1696" y="299" width="110" height="94" frameX="0" frameY="-1" frameWidth="112" frameHeight="96"/>
+    <SubTexture name="dot-point" x="1246" y="893" width="40" height="40"/>
+    <SubTexture name="dutchman-shot_00" x="1242" y="975" width="32" height="32"/>
+    <SubTexture name="energy-ball" x="986" y="802" width="48" height="48"/>
+    <SubTexture name="explode_00" x="199" y="886" width="30" height="32" frameX="-7" frameY="-9" frameWidth="48" frameHeight="48"/>
+    <SubTexture name="explode_01" x="936" y="802" width="48" height="48"/>
+    <SubTexture name="explode_02" x="626" y="973" width="48" height="48"/>
+    <SubTexture name="explode_03" x="742" y="950" width="48" height="48"/>
+    <SubTexture name="explode_04" x="50" y="1593" width="46" height="44" frameX="0" frameY="0" frameWidth="48" frameHeight="48"/>
+    <SubTexture name="explode_05" x="1080" y="974" width="32" height="38" frameX="-9" frameY="-1" frameWidth="48" frameHeight="48"/>
+    <SubTexture name="explode_06" x="314" y="1267" width="24" height="30" frameX="-12" frameY="-4" frameWidth="48" frameHeight="48"/>
+    <SubTexture name="explosion-glow" x="415" y="813" width="80" height="80" frameX="-9" frameY="-9" frameWidth="96" frameHeight="96"/>
+    <SubTexture name="fancy-0" x="591" y="915" width="33" height="67"/>
+    <SubTexture name="fancy-1" x="1092" y="769" width="22" height="67"/>
+    <SubTexture name="fancy-2" x="193" y="920" width="32" height="71"/>
+    <SubTexture name="fancy-3" x="98" y="733" width="35" height="67"/>
+    <SubTexture name="fancy-4" x="854" y="560" width="34" height="67"/>
+    <SubTexture name="fancy-5" x="592" y="846" width="33" height="67"/>
+    <SubTexture name="fancy-6" x="1027" y="1088" width="31" height="68"/>
+    <SubTexture name="fancy-7" x="850" y="629" width="38" height="69"/>
+    <SubTexture name="fancy-8" x="984" y="1100" width="31" height="67"/>
+    <SubTexture name="fancy-9" x="850" y="700" width="36" height="67"/>
+    <SubTexture name="fancy-day" x="1696" y="220" width="112" height="77"/>
+    <SubTexture name="fancy-x" x="98" y="802" width="35" height="45"/>
+    <SubTexture name="flying-dutchman-icon" x="231" y="634" width="94" height="94" frameX="-1" frameY="-1" frameWidth="96" frameHeight="96"/>
+    <SubTexture name="ghost-cannon-barrel" x="890" y="326" width="134" height="79" frameX="0" frameY="0" frameWidth="134" frameHeight="81"/>
+    <SubTexture name="ghost-cannon-base" x="1308" y="417" width="108" height="65"/>
+    <SubTexture name="ghost-cannon-flash" x="1290" y="673" width="96" height="47" frameX="0" frameY="-2" frameWidth="96" frameHeight="53"/>
+    <SubTexture name="ghost-cannon-wheel" x="1084" y="838" width="30" height="30"/>
+    <SubTexture name="ghost-deck-idol" x="1688" y="456" width="108" height="94" frameX="-1" frameY="-1" frameWidth="112" frameHeight="96"/>
+    <SubTexture name="ghost-helm" x="1798" y="516" width="236" height="234" frameX="-10" frameY="-12" frameWidth="256" frameHeight="256"/>
+    <SubTexture name="ghost-plank" x="128" y="954" width="60" height="84" frameX="-1" frameY="-1" frameWidth="64" frameHeight="88"/>
+    <SubTexture name="hi-score" x="593" y="768" width="35" height="32"/>
+    <SubTexture name="magma-shot_00" x="1027" y="1054" width="32" height="32"/>
+    <SubTexture name="magma-shot_01" x="965" y="1036" width="32" height="32"/>
+    <SubTexture name="magma-shot_02" x="882" y="1052" width="32" height="32"/>
+    <SubTexture name="magma-shot_03" x="931" y="1036" width="32" height="32"/>
+    <SubTexture name="magma-shot_04" x="1061" y="1048" width="32" height="32"/>
+    <SubTexture name="magma-shot_05" x="1182" y="1015" width="32" height="32"/>
+    <SubTexture name="magma-shot_06" x="1114" y="1023" width="32" height="32"/>
+    <SubTexture name="magma-shot_07" x="1148" y="1015" width="32" height="32"/>
+    <SubTexture name="mutiny-empty" x="2" y="924" width="62" height="60" frameX="-1" frameY="-2" frameWidth="64" frameHeight="64"/>
+    <SubTexture name="mutiny-full" x="129" y="892" width="62" height="60" frameX="-1" frameY="-2" frameWidth="64" frameHeight="64"/>
+    <SubTexture name="mutiny-half" x="692" y="950" width="48" height="48"/>
+    <SubTexture name="net-icon" x="519" y="634" width="94" height="94" frameX="-1" frameY="-1" frameWidth="96" frameHeight="96"/>
+    <SubTexture name="objectives-congrats" x="1422" y="344" width="264" height="128"/>
+    <SubTexture name="offscreen-arrow" x="1332" y="911" width="42" height="48" frameX="-3" frameY="0" frameWidth="48" frameHeight="48"/>
+    <SubTexture name="overboard_00" x="314" y="1299" width="24" height="16"/>
+    <SubTexture name="overboard_01" x="1248" y="557" width="24" height="16"/>
+    <SubTexture name="overboard_02" x="1222" y="557" width="24" height="16"/>
+    <SubTexture name="overboard_03" x="1248" y="557" width="24" height="16"/>
+    <SubTexture name="overheated-barrel" x="1292" y="497" width="121" height="55"/>
+    <SubTexture name="pause-driftwood" x="593" y="802" width="34" height="42" frameX="-53" frameY="-7" frameWidth="96" frameHeight="96"/>
+    <SubTexture name="pickup-wheel" x="718" y="737" width="79" height="79"/>
+    <SubTexture name="pirate-hat" x="1288" y="771" width="96" height="42"/>
+    <SubTexture name="pool-of-acid" x="707" y="884" width="64" height="64"/>
+    <SubTexture name="pool-of-magma" x="707" y="818" width="64" height="64"/>
+    <SubTexture name="potion-contents-lge" x="1687" y="552" width="104" height="112" frameX="-11" frameY="-85" frameWidth="126" frameHeight="200"/>
+    <SubTexture name="potion-contents-med" x="295" y="919" width="52" height="54" frameX="-4" frameY="-42" frameWidth="60" frameHeight="96"/>
+    <SubTexture name="potion-contents-sml" x="1114" y="941" width="42" height="46" frameX="-4" frameY="-34" frameWidth="50" frameHeight="80"/>
+    <SubTexture name="potion-vial-lge" x="1314" y="57" width="106" height="188" frameX="-9" frameY="-9" frameWidth="126" frameHeight="200"/>
+    <SubTexture name="potion-vial-med" x="295" y="825" width="52" height="92" frameX="-3" frameY="-4" frameWidth="60" frameHeight="96"/>
+    <SubTexture name="potion-vial-sml" x="2" y="1739" width="44" height="78" frameX="-2" frameY="-2" frameWidth="50" frameHeight="80"/>
+    <SubTexture name="powder-keg-icon" x="423" y="634" width="94" height="94" frameX="-1" frameY="-1" frameWidth="96" frameHeight="96"/>
+    <SubTexture name="powder-keg" x="1783" y="666" width="12" height="12"/>
+    <SubTexture name="prisoner0" x="542" y="941" width="46" height="188" frameX="-12" frameY="-2" frameWidth="70" frameHeight="192"/>
+    <SubTexture name="prisoner1" x="349" y="953" width="50" height="188" frameX="-10" frameY="-2" frameWidth="70" frameHeight="192"/>
+    <SubTexture name="prisoner2" x="66" y="941" width="60" height="190" frameX="-5" frameY="-1" frameWidth="70" frameHeight="192"/>
+    <SubTexture name="prisoner3" x="1972" y="887" width="70" height="188" frameX="0" frameY="-2" frameWidth="70" frameHeight="192"/>
+    <SubTexture name="prisoner4" x="1630" y="583" width="52" height="190" frameX="-10" frameY="-1" frameWidth="70" frameHeight="192"/>
+    <SubTexture name="prisoner5" x="231" y="825" width="62" height="188" frameX="-4" frameY="-2" frameWidth="70" frameHeight="192"/>
+    <SubTexture name="race-arrow" x="1080" y="932" width="32" height="40"/>
+    <SubTexture name="reticle" x="1095" y="1057" width="32" height="32"/>
+    <SubTexture name="sea-of-lava-icon" x="135" y="634" width="94" height="94" frameX="-1" frameY="-1" frameWidth="96" frameHeight="96"/>
+    <SubTexture name="shady-speedboat" x="1780" y="840" width="190" height="66" frameX="-2" frameY="-7" frameWidth="194" frameHeight="80"/>
+    <SubTexture name="shark-attack_00" x="585" y="1168" width="32" height="58" frameX="-4" frameY="-1" frameWidth="40" frameHeight="60"/>
+    <SubTexture name="shark-attack_01" x="814" y="1122" width="28" height="60" frameX="-8" frameY="0" frameWidth="40" frameHeight="60"/>
+    <SubTexture name="shark-attack_02" x="768" y="1152" width="28" height="58" frameX="-8" frameY="-1" frameWidth="40" frameHeight="60"/>
+    <SubTexture name="shark-attack_03" x="946" y="1104" width="28" height="60" frameX="-7" frameY="0" frameWidth="40" frameHeight="60"/>
+    <SubTexture name="shark-attack_04" x="453" y="1213" width="32" height="58" frameX="-5" frameY="-1" frameWidth="40" frameHeight="60"/>
+    <SubTexture name="shark-attack_05" x="882" y="1120" width="28" height="60" frameX="-8" frameY="0" frameWidth="40" frameHeight="60"/>
+    <SubTexture name="shark-attack_06" x="590" y="1046" width="32" height="60" frameX="-5" frameY="0" frameWidth="40" frameHeight="60"/>
+    <SubTexture name="shark-attack_07" x="849" y="927" width="32" height="60" frameX="-4" frameY="0" frameWidth="40" frameHeight="60"/>
+    <SubTexture name="shark-white-water" x="629" y="810" width="76" height="76"/>
+    <SubTexture name="shark_00" x="199" y="826" width="30" height="58" frameX="-10" frameY="-1" frameWidth="40" frameHeight="60"/>
+    <SubTexture name="shark_01" x="844" y="1122" width="28" height="58" frameX="-10" frameY="-1" frameWidth="40" frameHeight="60"/>
+    <SubTexture name="shark_02" x="773" y="890" width="24" height="58" frameX="-10" frameY="-1" frameWidth="40" frameHeight="60"/>
+    <SubTexture name="shark_03" x="916" y="1104" width="28" height="60" frameX="-8" frameY="0" frameWidth="40" frameHeight="60"/>
+    <SubTexture name="shark_04" x="590" y="984" width="32" height="60" frameX="-3" frameY="0" frameWidth="40" frameHeight="60"/>
+    <SubTexture name="shark_05" x="849" y="865" width="32" height="60" frameX="-1" frameY="0" frameWidth="40" frameHeight="60"/>
+    <SubTexture name="shark_06" x="849" y="803" width="32" height="60" frameX="-3" frameY="0" frameWidth="40" frameHeight="60"/>
+    <SubTexture name="shark_07" x="590" y="1108" width="32" height="58" frameX="-4" frameY="-2" frameWidth="40" frameHeight="60"/>
+    <SubTexture name="shark_08" x="1084" y="870" width="28" height="60" frameX="-7" frameY="0" frameWidth="40" frameHeight="60"/>
+    <SubTexture name="shark_09" x="1388" y="673" width="28" height="60" frameX="-8" frameY="0" frameWidth="40" frameHeight="60"/>
+    <SubTexture name="shark_10" x="668" y="1191" width="26" height="60" frameX="-10" frameY="0" frameWidth="40" frameHeight="60"/>
+    <SubTexture name="shark_11" x="1388" y="611" width="28" height="60" frameX="-9" frameY="0" frameWidth="40" frameHeight="60"/>
+    <SubTexture name="ship-burn_00" x="770" y="1049" width="42" height="101" frameX="-1" frameY="-4" frameWidth="48" frameHeight="109"/>
+    <SubTexture name="ship-burn_01" x="48" y="1639" width="44" height="101" frameX="-1" frameY="-4" frameWidth="48" frameHeight="109"/>
+    <SubTexture name="ship-burn_02" x="672" y="1092" width="42" height="97" frameX="-2" frameY="-8" frameWidth="48" frameHeight="109"/>
+    <SubTexture name="ship-burn_03" x="168" y="1249" width="44" height="103" frameX="-1" frameY="-4" frameWidth="48" frameHeight="109"/>
+    <SubTexture name="ship-burn_04" x="2" y="1636" width="44" height="101" frameX="-2" frameY="-4" frameWidth="48" frameHeight="109"/>
+    <SubTexture name="ship-burn_05" x="840" y="989" width="40" height="97" frameX="-3" frameY="-7" frameWidth="48" frameHeight="109"/>
+    <SubTexture name="ship-burn_06" x="624" y="1115" width="42" height="95" frameX="-2" frameY="-7" frameWidth="48" frameHeight="109"/>
+    <SubTexture name="ship-burn_07" x="724" y="1066" width="42" height="99" frameX="-2" frameY="-6" frameWidth="48" frameHeight="109"/>
+    <SubTexture name="ship-pf-cruiser_00" x="1386" y="735" width="30" height="90" frameX="-8" frameY="0" frameWidth="60" frameHeight="90"/>
+    <SubTexture name="ship-pf-dutchman_00" x="401" y="1049" width="50" height="90" frameX="0" frameY="0" frameWidth="60" frameHeight="90"/>
+    <SubTexture name="ship-pf-dutchman_01" x="2" y="1452" width="48" height="90" frameX="-4" frameY="0" frameWidth="60" frameHeight="90"/>
+    <SubTexture name="ship-pf-dutchman_02" x="100" y="1561" width="46" height="90" frameX="-7" frameY="0" frameWidth="60" frameHeight="90"/>
+    <SubTexture name="ship-pf-dutchman_03" x="150" y="1538" width="46" height="90" frameX="-11" frameY="0" frameWidth="60" frameHeight="90"/>
+    <SubTexture name="ship-pf-escort_00" x="487" y="1004" width="50" height="90" frameX="0" frameY="0" frameWidth="60" frameHeight="90"/>
+    <SubTexture name="ship-pf-escort_01" x="52" y="1409" width="48" height="90" frameX="-4" frameY="0" frameWidth="60" frameHeight="90"/>
+    <SubTexture name="ship-pf-escort_02" x="202" y="1475" width="46" height="90" frameX="-7" frameY="0" frameWidth="60" frameHeight="90"/>
+    <SubTexture name="ship-pf-escort_03" x="254" y="1435" width="46" height="90" frameX="-11" frameY="0" frameWidth="60" frameHeight="90"/>
+    <SubTexture name="ship-pf-merchant-caravel_00" x="490" y="912" width="50" height="90" frameX="0" frameY="0" frameWidth="60" frameHeight="90"/>
+    <SubTexture name="ship-pf-merchant-caravel_01" x="104" y="1377" width="48" height="90" frameX="-4" frameY="0" frameWidth="60" frameHeight="90"/>
+    <SubTexture name="ship-pf-merchant-caravel_02" x="2" y="1544" width="46" height="90" frameX="-7" frameY="0" frameWidth="60" frameHeight="90"/>
+    <SubTexture name="ship-pf-merchant-caravel_03" x="52" y="1501" width="46" height="90" frameX="-11" frameY="0" frameWidth="60" frameHeight="90"/>
+    <SubTexture name="ship-pf-merchant-frigate_00" x="2" y="1268" width="50" height="90" frameX="0" frameY="0" frameWidth="60" frameHeight="90"/>
+    <SubTexture name="ship-pf-merchant-frigate_01" x="156" y="1354" width="48" height="90" frameX="-4" frameY="0" frameWidth="60" frameHeight="90"/>
+    <SubTexture name="ship-pf-merchant-frigate_02" x="102" y="1469" width="46" height="90" frameX="-7" frameY="0" frameWidth="60" frameHeight="90"/>
+    <SubTexture name="ship-pf-merchant-frigate_03" x="154" y="1446" width="46" height="90" frameX="-11" frameY="0" frameWidth="60" frameHeight="90"/>
+    <SubTexture name="ship-pf-merchant-galleon_00" x="54" y="1225" width="50" height="90" frameX="0" frameY="0" frameWidth="60" frameHeight="90"/>
+    <SubTexture name="ship-pf-merchant-galleon_01" x="2" y="1360" width="48" height="90" frameX="-4" frameY="0" frameWidth="60" frameHeight="90"/>
+    <SubTexture name="ship-pf-merchant-galleon_02" x="206" y="1383" width="46" height="90" frameX="-7" frameY="0" frameWidth="60" frameHeight="90"/>
+    <SubTexture name="ship-pf-merchant-galleon_03" x="340" y="1377" width="46" height="90" frameX="-11" frameY="0" frameWidth="60" frameHeight="90"/>
+    <SubTexture name="ship-pf-navy_00" x="116" y="1193" width="50" height="90" frameX="0" frameY="0" frameWidth="60" frameHeight="90"/>
+    <SubTexture name="ship-pf-navy_01" x="54" y="1317" width="48" height="90" frameX="-4" frameY="0" frameWidth="60" frameHeight="90"/>
+    <SubTexture name="ship-pf-navy_02" x="264" y="1343" width="46" height="90" frameX="-7" frameY="0" frameWidth="60" frameHeight="90"/>
+    <SubTexture name="ship-pf-navy_03" x="388" y="1307" width="46" height="90" frameX="-11" frameY="0" frameWidth="60" frameHeight="90"/>
+    <SubTexture name="ship-pf-pirate_00" x="2" y="1176" width="50" height="90" frameX="0" frameY="0" frameWidth="60" frameHeight="90"/>
+    <SubTexture name="ship-pf-pirate_01" x="106" y="1285" width="48" height="90" frameX="-4" frameY="0" frameWidth="60" frameHeight="90"/>
+    <SubTexture name="ship-pf-pirate_02" x="340" y="1285" width="46" height="90" frameX="-7" frameY="0" frameWidth="60" frameHeight="90"/>
+    <SubTexture name="ship-pf-pirate_03" x="439" y="1273" width="46" height="90" frameX="-11" frameY="0" frameWidth="60" frameHeight="90"/>
+    <SubTexture name="ship-pf-silvertrain_00" x="64" y="1133" width="50" height="90" frameX="0" frameY="0" frameWidth="60" frameHeight="90"/>
+    <SubTexture name="ship-pf-silvertrain_01" x="214" y="1291" width="48" height="90" frameX="-4" frameY="0" frameWidth="60" frameHeight="90"/>
+    <SubTexture name="ship-pf-silvertrain_02" x="391" y="1215" width="46" height="90" frameX="-7" frameY="0" frameWidth="60" frameHeight="90"/>
+    <SubTexture name="ship-pf-silvertrain_03" x="487" y="1188" width="46" height="90" frameX="-11" frameY="0" frameWidth="60" frameHeight="90"/>
+    <SubTexture name="ship-pf-skipper_00" x="95" y="849" width="32" height="90" frameX="-8" frameY="0" frameWidth="60" frameHeight="90"/>
+    <SubTexture name="ship-pf-sloop_00" x="128" y="1101" width="50" height="90" frameX="0" frameY="0" frameWidth="60" frameHeight="90"/>
+    <SubTexture name="ship-pf-sloop_01" x="264" y="1251" width="48" height="90" frameX="-4" frameY="0" frameWidth="60" frameHeight="90"/>
+    <SubTexture name="ship-pf-sloop_02" x="537" y="1131" width="46" height="90" frameX="-7" frameY="0" frameWidth="60" frameHeight="90"/>
+    <SubTexture name="ship-pf-sloop_03" x="624" y="1023" width="46" height="90" frameX="-11" frameY="0" frameWidth="60" frameHeight="90"/>
+    <SubTexture name="ship-pf-speedboat_00" x="773" y="818" width="24" height="70" frameX="-7" frameY="-1" frameWidth="48" frameHeight="72"/>
+    <SubTexture name="ship-pf-speedboat_01" x="312" y="1423" width="26" height="70" frameX="-6" frameY="-2" frameWidth="48" frameHeight="72"/>
+    <SubTexture name="ship-pf-speedboat_02" x="312" y="1349" width="26" height="72" frameX="-6" frameY="0" frameWidth="48" frameHeight="72"/>
+    <SubTexture name="ship-pf-speedboat_03" x="563" y="867" width="26" height="72" frameX="-7" frameY="0" frameWidth="48" frameHeight="72"/>
+    <SubTexture name="ship-pf-speedboat_04" x="1116" y="505" width="24" height="70" frameX="-9" frameY="-2" frameWidth="48" frameHeight="72"/>
+    <SubTexture name="ship-pf-speedboat_05" x="1092" y="697" width="22" height="70" frameX="-11" frameY="-2" frameWidth="48" frameHeight="72"/>
+    <SubTexture name="ship-pf-treasurefleet_00" x="221" y="1107" width="50" height="90" frameX="0" frameY="0" frameWidth="60" frameHeight="90"/>
+    <SubTexture name="ship-pf-treasurefleet_01" x="341" y="1193" width="48" height="90" frameX="-4" frameY="0" frameWidth="60" frameHeight="90"/>
+    <SubTexture name="ship-pf-treasurefleet_02" x="676" y="1000" width="46" height="90" frameX="-7" frameY="0" frameWidth="60" frameHeight="90"/>
+    <SubTexture name="ship-pf-treasurefleet_03" x="979" y="944" width="46" height="90" frameX="-11" frameY="0" frameWidth="60" frameHeight="90"/>
+    <SubTexture name="ship-pf-yacht_00" x="1384" y="827" width="32" height="90" frameX="-7" frameY="0" frameWidth="60" frameHeight="90"/>
+    <SubTexture name="ship-sinking_00" x="453" y="1087" width="32" height="62" frameX="0" frameY="-2" frameWidth="32" frameHeight="72"/>
+    <SubTexture name="ship-sinking_01" x="453" y="1023" width="32" height="62" frameX="0" frameY="-2" frameWidth="32" frameHeight="72"/>
+    <SubTexture name="ship-sinking_02" x="453" y="1151" width="32" height="60" frameX="0" frameY="-3" frameWidth="32" frameHeight="72"/>
+    <SubTexture name="ship-sinking_03" x="453" y="959" width="32" height="62" frameX="0" frameY="-2" frameWidth="32" frameHeight="72"/>
+    <SubTexture name="ship-sinking_04" x="180" y="1185" width="32" height="62" frameX="0" frameY="-2" frameWidth="32" frameHeight="72"/>
+    <SubTexture name="ship-sinking_05" x="180" y="1121" width="32" height="62" frameX="0" frameY="-2" frameWidth="32" frameHeight="72"/>
+    <SubTexture name="ship-sinking_06" x="187" y="1057" width="32" height="62" frameX="0" frameY="-2" frameWidth="32" frameHeight="72"/>
+    <SubTexture name="ship-sinking_07" x="456" y="895" width="32" height="62" frameX="0" frameY="-2" frameWidth="32" frameHeight="72"/>
+    <SubTexture name="ship-sinking_08" x="190" y="993" width="32" height="62" frameX="0" frameY="-2" frameWidth="32" frameHeight="72"/>
+    <SubTexture name="ship-sinking_09" x="999" y="1036" width="26" height="62" frameX="-3" frameY="-2" frameWidth="32" frameHeight="72"/>
+    <SubTexture name="shorebreak_00" x="1422" y="2" width="390" height="49" frameX="0" frameY="-1" frameWidth="520" frameHeight="57"/>
+    <SubTexture name="shorebreak_01" x="1030" y="2" width="390" height="53" frameX="0" frameY="-1" frameWidth="520" frameHeight="57"/>
+    <SubTexture name="shorebreak_02" x="1422" y="53" width="390" height="45" frameX="0" frameY="-7" frameWidth="520" frameHeight="57"/>
+    <SubTexture name="single-shot_00" x="1027" y="1020" width="32" height="32"/>
+    <SubTexture name="sk-boost-left" x="890" y="456" width="250" height="47" frameX="0" frameY="-2" frameWidth="250" frameHeight="49"/>
+    <SubTexture name="sk-boost-mid" x="632" y="560" width="220" height="47" frameX="0" frameY="-2" frameWidth="220" frameHeight="49"/>
+    <SubTexture name="sk-boost-right" x="890" y="407" width="250" height="47" frameX="0" frameY="-2" frameWidth="250" frameHeight="49"/>
+    <SubTexture name="sk-brandy-flame-p0_00" x="323" y="1195" width="16" height="16"/>
+    <SubTexture name="sk-brandy-flame-p0_01" x="1100" y="679" width="14" height="16" frameX="-2" frameY="0" frameWidth="16" frameHeight="16"/>
+    <SubTexture name="sk-brandy-flame-p0_02" x="323" y="1177" width="16" height="16"/>
+    <SubTexture name="sk-brandy-flame-p0_03" x="323" y="1159" width="16" height="16"/>
+    <SubTexture name="sk-brandy-flame-p0_04" x="770" y="1000" width="16" height="14" frameX="0" frameY="-2" frameWidth="16" frameHeight="16"/>
+    <SubTexture name="sk-brandy-flame-p0_05" x="1100" y="661" width="14" height="16" frameX="-1" frameY="0" frameWidth="16" frameHeight="16"/>
+    <SubTexture name="sk-brandy-flame-p1_00" x="542" y="912" width="16" height="16"/>
+    <SubTexture name="sk-brandy-flame-p1_01" x="1100" y="643" width="14" height="16" frameX="-2" frameY="0" frameWidth="16" frameHeight="16"/>
+    <SubTexture name="sk-brandy-flame-p1_02" x="273" y="1141" width="16" height="16"/>
+    <SubTexture name="sk-brandy-flame-p1_03" x="276" y="1105" width="16" height="16"/>
+    <SubTexture name="sk-brandy-flame-p1_04" x="314" y="1333" width="16" height="14" frameX="0" frameY="-2" frameWidth="16" frameHeight="16"/>
+    <SubTexture name="sk-brandy-flame-p1_05" x="1292" y="479" width="14" height="16" frameX="-1" frameY="0" frameWidth="16" frameHeight="16"/>
+    <SubTexture name="sk-brandy-flame-p2_00" x="276" y="1087" width="16" height="16"/>
+    <SubTexture name="sk-brandy-flame-p2_01" x="1292" y="461" width="14" height="16" frameX="-2" frameY="0" frameWidth="16" frameHeight="16"/>
+    <SubTexture name="sk-brandy-flame-p2_02" x="276" y="1069" width="16" height="16"/>
+    <SubTexture name="sk-brandy-flame-p2_03" x="276" y="1051" width="16" height="16"/>
+    <SubTexture name="sk-brandy-flame-p2_04" x="314" y="1317" width="16" height="14" frameX="0" frameY="-2" frameWidth="16" frameHeight="16"/>
+    <SubTexture name="sk-brandy-flame-p2_05" x="1292" y="443" width="14" height="16" frameX="-1" frameY="0" frameWidth="16" frameHeight="16"/>
+    <SubTexture name="sk-brandy-flame-p3_00" x="276" y="1033" width="16" height="16"/>
+    <SubTexture name="sk-brandy-flame-p3_01" x="1292" y="425" width="14" height="16" frameX="-2" frameY="0" frameWidth="16" frameHeight="16"/>
+    <SubTexture name="sk-brandy-flame-p3_02" x="276" y="1015" width="16" height="16"/>
+    <SubTexture name="sk-brandy-flame-p3_03" x="1274" y="557" width="16" height="16"/>
+    <SubTexture name="sk-brandy-flame-p3_04" x="66" y="924" width="16" height="14" frameX="0" frameY="-2" frameWidth="16" frameHeight="16"/>
+    <SubTexture name="sk-brandy-flame-p3_05" x="1292" y="407" width="14" height="16" frameX="-1" frameY="0" frameWidth="16" frameHeight="16"/>
+    <SubTexture name="sk-crew-0" x="135" y="826" width="62" height="64" frameX="-2" frameY="0" frameWidth="64" frameHeight="64"/>
+    <SubTexture name="sk-crew-1" x="799" y="891" width="48" height="64" frameX="-9" frameY="0" frameWidth="64" frameHeight="64"/>
+    <SubTexture name="sk-crew-2" x="535" y="1223" width="42" height="64" frameX="-12" frameY="0" frameWidth="64" frameHeight="64"/>
+    <SubTexture name="sk-crew-3" x="349" y="825" width="52" height="64" frameX="-12" frameY="0" frameWidth="64" frameHeight="64"/>
+    <SubTexture name="sk-crew-dead" x="886" y="802" width="48" height="64" frameX="-8" frameY="0" frameWidth="64" frameHeight="64"/>
+    <SubTexture name="sk-health-bar" x="890" y="643" width="208" height="39" frameX="0" frameY="-1" frameWidth="208" frameHeight="43"/>
+    <SubTexture name="sk-hud-frame" x="1030" y="57" width="282" height="102"/>
+    <SubTexture name="sk-offscreen-arrow-p0" x="1288" y="911" width="42" height="48" frameX="-3" frameY="0" frameWidth="48" frameHeight="48"/>
+    <SubTexture name="sk-offscreen-arrow-p1" x="1202" y="891" width="42" height="48" frameX="-3" frameY="0" frameWidth="48" frameHeight="48"/>
+    <SubTexture name="sk-offscreen-arrow-p2" x="1158" y="891" width="42" height="48" frameX="-3" frameY="0" frameWidth="48" frameHeight="48"/>
+    <SubTexture name="sk-offscreen-arrow-p3" x="1114" y="891" width="42" height="48" frameX="-3" frameY="0" frameWidth="48" frameHeight="48"/>
+    <SubTexture name="sk-pf-ship-p0_00" x="294" y="1067" width="50" height="90" frameX="0" frameY="0" frameWidth="60" frameHeight="90"/>
+    <SubTexture name="sk-pf-ship-p0_01" x="214" y="1199" width="48" height="90" frameX="-4" frameY="0" frameWidth="60" frameHeight="90"/>
+    <SubTexture name="sk-pf-ship-p0_02" x="883" y="960" width="46" height="90" frameX="-7" frameY="0" frameWidth="60" frameHeight="90"/>
+    <SubTexture name="sk-pf-ship-p0_03" x="931" y="944" width="46" height="90" frameX="-11" frameY="0" frameWidth="60" frameHeight="90"/>
+    <SubTexture name="sk-pf-ship-p1_00" x="224" y="1015" width="50" height="90" frameX="0" frameY="0" frameWidth="60" frameHeight="90"/>
+    <SubTexture name="sk-pf-ship-p1_01" x="273" y="1159" width="48" height="90" frameX="-4" frameY="0" frameWidth="60" frameHeight="90"/>
+    <SubTexture name="sk-pf-ship-p1_02" x="792" y="957" width="46" height="90" frameX="-7" frameY="0" frameWidth="60" frameHeight="90"/>
+    <SubTexture name="sk-pf-ship-p1_03" x="883" y="868" width="46" height="90" frameX="-11" frameY="0" frameWidth="60" frameHeight="90"/>
+    <SubTexture name="sk-pf-ship-p2_00" x="401" y="957" width="50" height="90" frameX="0" frameY="0" frameWidth="60" frameHeight="90"/>
+    <SubTexture name="sk-pf-ship-p2_01" x="487" y="1096" width="48" height="90" frameX="-4" frameY="0" frameWidth="60" frameHeight="90"/>
+    <SubTexture name="sk-pf-ship-p2_02" x="1032" y="928" width="46" height="90" frameX="-7" frameY="0" frameWidth="60" frameHeight="90"/>
+    <SubTexture name="sk-pf-ship-p2_03" x="984" y="852" width="46" height="90" frameX="-11" frameY="0" frameWidth="60" frameHeight="90"/>
+    <SubTexture name="sk-pf-ship-p3_00" x="295" y="975" width="50" height="90" frameX="0" frameY="0" frameWidth="60" frameHeight="90"/>
+    <SubTexture name="sk-pf-ship-p3_01" x="799" y="799" width="48" height="90" frameX="-4" frameY="0" frameWidth="60" frameHeight="90"/>
+    <SubTexture name="sk-pf-ship-p3_02" x="936" y="852" width="46" height="90" frameX="-7" frameY="0" frameWidth="60" frameHeight="90"/>
+    <SubTexture name="sk-pf-ship-p3_03" x="1036" y="836" width="46" height="90" frameX="-11" frameY="0" frameWidth="60" frameHeight="90"/>
+    <SubTexture name="sk-powder-keg-p0" x="1202" y="557" width="18" height="18"/>
+    <SubTexture name="sk-powder-keg-p1" x="1182" y="557" width="18" height="18"/>
+    <SubTexture name="sk-powder-keg-p2" x="1162" y="557" width="18" height="18"/>
+    <SubTexture name="sk-powder-keg-p3" x="1142" y="557" width="18" height="18"/>
+    <SubTexture name="sk-pup-brandy" x="626" y="942" width="64" height="29" frameX="0" frameY="-1" frameWidth="64" frameHeight="31"/>
+    <SubTexture name="sk-pup-davy" x="724" y="1000" width="44" height="64"/>
+    <SubTexture name="sk-pup-ghost" x="403" y="895" width="51" height="60"/>
+    <SubTexture name="sk-pup-health" x="1290" y="611" width="96" height="60"/>
+    <SubTexture name="sk-pup-keg" x="487" y="1280" width="42" height="56"/>
+    <SubTexture name="sk-pup-lava" x="401" y="1141" width="50" height="72"/>
+    <SubTexture name="sk-pup-net" x="497" y="867" width="64" height="43"/>
+    <SubTexture name="sk-pup-tempest" x="349" y="891" width="52" height="60"/>
+    <SubTexture name="sk-trophy-0" x="1200" y="941" width="40" height="38" frameX="0" frameY="-1" frameWidth="40" frameHeight="40"/>
+    <SubTexture name="sk-trophy-1" x="1158" y="941" width="40" height="38" frameX="0" frameY="-1" frameWidth="40" frameHeight="40"/>
+    <SubTexture name="sk-trophy-2" x="1376" y="919" width="40" height="38" frameX="0" frameY="-1" frameWidth="40" frameHeight="40"/>
+    <SubTexture name="sk-trophy-3" x="1246" y="935" width="40" height="38" frameX="0" frameY="-1" frameWidth="40" frameHeight="40"/>
+    <SubTexture name="speedometer" x="506" y="803" width="84" height="62"/>
+    <SubTexture name="splash_00" x="1264" y="809" width="22" height="20" frameX="-18" frameY="-17" frameWidth="64" frameHeight="54"/>
+    <SubTexture name="splash_01" x="1288" y="961" width="40" height="36" frameX="-10" frameY="-9" frameWidth="64" frameHeight="54"/>
+    <SubTexture name="splash_02" x="627" y="888" width="64" height="52" frameX="0" frameY="-2" frameWidth="64" frameHeight="54"/>
+    <SubTexture name="splash_03" x="1630" y="474" width="56" height="52" frameX="-4" frameY="0" frameWidth="64" frameHeight="54"/>
+    <SubTexture name="splash_04" x="346" y="1143" width="50" height="48" frameX="-4" frameY="-4" frameWidth="64" frameHeight="54"/>
+    <SubTexture name="splash_05" x="850" y="769" width="34" height="32" frameX="-11" frameY="-10" frameWidth="64" frameHeight="54"/>
+    <SubTexture name="splash_06" x="273" y="1123" width="18" height="16" frameX="-21" frameY="-20" frameWidth="64" frameHeight="54"/>
+    <SubTexture name="tempest-clouds" x="1142" y="407" width="148" height="148" frameX="-18" frameY="-16" frameWidth="184" frameHeight="182"/>
+    <SubTexture name="tempest-debris" x="1696" y="100" width="116" height="118" frameX="-31" frameY="-36" frameWidth="184" frameHeight="182"/>
+    <SubTexture name="tempest-icon" x="1684" y="759" width="94" height="94" frameX="-1" frameY="-1" frameWidth="96" frameHeight="96"/>
+    <SubTexture name="tempest-splash_00" x="2" y="1038" width="62" height="50"/>
+    <SubTexture name="tempest-splash_01" x="2" y="986" width="62" height="50"/>
+    <SubTexture name="tempest-stem" x="2" y="634" width="131" height="97"/>
+    <SubTexture name="tempest-swirl" x="1418" y="784" width="180" height="168" frameX="-2" frameY="-2" frameWidth="184" frameHeight="182"/>
+    <SubTexture name="town-cannon" x="799" y="737" width="49" height="60"/>
+    <SubTexture name="town-future-lights" x="1418" y="474" width="210" height="160" frameX="0" frameY="0" frameWidth="296" frameHeight="294"/>
+    <SubTexture name="town-future" x="1422" y="100" width="272" height="242" frameX="0" frameY="0" frameWidth="296" frameHeight="294"/>
+    <SubTexture name="town-house" x="1264" y="831" width="19" height="60" frameX="0" frameY="0" frameWidth="19" frameHeight="64"/>
+    <SubTexture name="town-light-0" x="1799" y="406" width="7" height="9"/>
+    <SubTexture name="town-light-1" x="2040" y="15" width="6" height="9" frameX="-1" frameY="-1" frameWidth="8" frameHeight="11"/>
+    <SubTexture name="town-light-2" x="2040" y="2" width="6" height="11"/>
+    <SubTexture name="town-light-3" x="2040" y="26" width="6" height="8"/>
+    <SubTexture name="town-light-4" x="1799" y="395" width="7" height="9" frameX="-1" frameY="-1" frameWidth="9" frameHeight="11"/>
+    <SubTexture name="town" x="1030" y="161" width="276" height="244"/>
+    <SubTexture name="tutorial-arrow" x="1036" y="802" width="48" height="32"/>
+    <SubTexture name="tutorial-cannon" x="1116" y="809" width="146" height="80"/>
+    <SubTexture name="tutorial-town-cannon" x="1977" y="752" width="68" height="70" frameX="0" frameY="0" frameWidth="70" frameHeight="70"/>
+    <SubTexture name="venom-shot_00" x="1226" y="1009" width="32" height="32"/>
+    <SubTexture name="venom-shot_01" x="1192" y="981" width="32" height="32"/>
+    <SubTexture name="venom-shot_02" x="1080" y="1014" width="32" height="32"/>
+    <SubTexture name="venom-shot_03" x="1114" y="989" width="32" height="32"/>
+    <SubTexture name="venom-shot_04" x="1158" y="981" width="32" height="32"/>
+    <SubTexture name="venom-shot_05" x="1276" y="999" width="32" height="32"/>
+    <SubTexture name="venom-shot_06" x="1330" y="995" width="32" height="32"/>
+    <SubTexture name="venom-shot_07" x="1330" y="961" width="32" height="32"/>
+    <SubTexture name="voodoo-cancel-icon" x="1616" y="775" width="64" height="64"/>
+    <SubTexture name="wake" x="1182" y="1049" width="32" height="32"/>
+    <SubTexture name="walk-the-plank" x="2" y="1090" width="60" height="84" frameX="-1" frameY="0" frameWidth="64" frameHeight="88"/>
+    <SubTexture name="whirlpool-icon" x="1288" y="815" width="94" height="94" frameX="-1" frameY="-1" frameWidth="96" frameHeight="96"/>
+    <SubTexture name="whirlpool" x="2" y="2" width="628" height="630" frameX="0" frameY="0" frameWidth="632" frameHeight="632"/>
+</TextureAtlas>

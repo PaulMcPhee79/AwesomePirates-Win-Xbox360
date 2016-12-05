@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TextureAtlas imagePath="skirmish-texture.png">
+    <!-- Created with TexturePacker -->
+    <!-- http://texturepacker.com -->
+    <!-- $TexturePacker:SmartUpdate:de57337b92e7e06466e760af198b1836$ -->
+    <SubTexture name="sk-a-to-join" x="96" y="353" width="136" height="46" frameX="0" frameY="0" frameWidth="140" frameHeight="48"/>
+    <SubTexture name="sk-b-to-join" x="96" y="305" width="136" height="46" frameX="0" frameY="0" frameWidth="140" frameHeight="48"/>
+    <SubTexture name="sk-rope" x="0" y="0" width="380" height="11"/>
+    <SubTexture name="sk-shady" x="382" y="0" width="120" height="138" frameX="0" frameY="0" frameWidth="120" frameHeight="140"/>
+    <SubTexture name="sk-text-2v2" x="420" y="212" width="92" height="70"/>
+    <SubTexture name="sk-text-career" x="266" y="212" width="152" height="70"/>
+    <SubTexture name="sk-text-fight" x="0" y="87" width="264" height="142"/>
+    <SubTexture name="sk-text-free-for-all" x="266" y="140" width="244" height="70"/>
+    <SubTexture name="sk-text-multiplayer" x="0" y="231" width="250" height="72"/>
+    <SubTexture name="sk-text-single-player" x="0" y="13" width="286" height="72"/>
+    <SubTexture name="sk-text-versus" x="266" y="93" width="22" height="29"/>
+    <SubTexture name="sk-treasure-left" x="0" y="305" width="94" height="96" frameX="-2" frameY="0" frameWidth="96" frameHeight="96"/>
+    <SubTexture name="sk-treasure-mid" x="0" y="403" width="94" height="58" frameX="0" frameY="-1" frameWidth="96" frameHeight="60"/>
+    <SubTexture name="sk-treasure-right" x="288" y="13" width="92" height="78" frameX="-2" frameY="-1" frameWidth="96" frameHeight="80"/>
+    <SubTexture name="sk-x-to-join" x="0" y="463" width="136" height="46" frameX="0" frameY="0" frameWidth="140" frameHeight="48"/>
+	<SubTexture name="sk-skull" x="330" y="294" width="180" height="216"/>
+</TextureAtlas>

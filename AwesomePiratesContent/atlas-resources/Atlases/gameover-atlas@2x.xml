@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TextureAtlas imagePath="gameover-atlas@2x.png">
+    <!-- Created with TexturePacker -->
+    <!-- http://texturepacker.com -->
+    <!-- $TexturePacker:SmartUpdate:d47706b526e688027a25dee9b5542d8e$ -->
+    <SubTexture name="death" x="0" y="95" width="84" height="154" frameX="0" frameY="-3" frameWidth="84" frameHeight="160"/>
+    <SubTexture name="new-best" x="85" y="95" width="167" height="60"/>
+    <SubTexture name="retry-button" x="85" y="156" width="128" height="54" frameX="0" frameY="-4" frameWidth="128" frameHeight="60"/>
+    <SubTexture name="tweet-it" x="0" y="0" width="248" height="94" frameX="0" frameY="-1" frameWidth="248" frameHeight="96"/>
+</TextureAtlas>

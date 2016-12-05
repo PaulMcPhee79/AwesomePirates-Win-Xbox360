@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TextureAtlas imagePath="uiview-texture.png">
+    <!-- Created with TexturePacker -->
+    <!-- http://texturepacker.com -->
+    <!-- $TexturePacker:SmartUpdate:59d56035f304f5ae6298d4c8e459982f$ -->
+    <SubTexture name="ach-prize-0" x="192" y="532" width="94" height="58" frameX="0" frameY="-26" frameWidth="96" frameHeight="96"/>
+    <SubTexture name="ach-prize-1" x="0" y="610" width="94" height="54" frameX="-1" frameY="-28" frameWidth="96" frameHeight="96"/>
+    <SubTexture name="ach-prize-2" x="324" y="494" width="96" height="74" frameX="0" frameY="-8" frameWidth="96" frameHeight="96"/>
+    <SubTexture name="ach-prize-grey-0" x="96" y="524" width="94" height="58" frameX="0" frameY="-26" frameWidth="96" frameHeight="96"/>
+    <SubTexture name="ach-prize-grey-1" x="96" y="584" width="94" height="54" frameX="-1" frameY="-28" frameWidth="96" frameHeight="96"/>
+    <SubTexture name="ach-prize-grey-2" x="192" y="456" width="96" height="74" frameX="0" frameY="-8" frameWidth="96" frameHeight="96"/>
+    <SubTexture name="achievements-icon" x="0" y="524" width="94" height="84" frameX="-2" frameY="-6" frameWidth="96" frameHeight="96"/>
+    <SubTexture name="speedboat-helm-icon" x="328" y="396" width="96" height="96"/>
+    <SubTexture name="speedboat" x="0" y="456" width="190" height="66" frameX="-2" frameY="-7" frameWidth="194" frameHeight="80"/>
+    <SubTexture name="tableview-cell-dark" x="0" y="260" width="512" height="128"/>
+    <SubTexture name="tableview-cell-divider" x="0" y="390" width="512" height="4"/>
+    <SubTexture name="tableview-cell-grey" x="0" y="130" width="512" height="128"/>
+    <SubTexture name="tableview-cell-light" x="0" y="0" width="512" height="128"/>
+    <SubTexture name="tier0-complete" x="420" y="594" width="64" height="64"/>
+    <SubTexture name="tier0-incomplete" x="354" y="570" width="64" height="64"/>
+    <SubTexture name="tier1-complete" x="288" y="570" width="64" height="64"/>
+    <SubTexture name="tier1-incomplete" x="422" y="528" width="64" height="64"/>
+    <SubTexture name="tier2-complete" x="426" y="462" width="64" height="64"/>
+    <SubTexture name="tier2-incomplete" x="426" y="396" width="64" height="64"/>
+    <SubTexture name="treasure-trail-grey" x="0" y="426" width="326" height="28" frameX="0" frameY="-1" frameWidth="326" frameHeight="32"/>
+    <SubTexture name="treasure-trail" x="0" y="396" width="326" height="28" frameX="0" frameY="-1" frameWidth="326" frameHeight="32"/>
+    <SubTexture name="x-marks-the-spot-grey" x="290" y="490" width="32" height="32"/>
+    <SubTexture name="x-marks-the-spot" x="290" y="456" width="32" height="32"/>
+</TextureAtlas>

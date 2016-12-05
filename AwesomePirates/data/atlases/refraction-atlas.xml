@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TextureAtlas imagePath="refraction.png">
+    <!-- Created with TexturePacker -->
+    <!-- http://texturepacker.com -->
+    <!-- $TexturePacker:SmartUpdate:de9992dac25ddca0dd7cfa978d6b8487$ -->
+    <SubTexture name="refraction" x="0" y="0" width="512" height="512"/>
+</TextureAtlas>

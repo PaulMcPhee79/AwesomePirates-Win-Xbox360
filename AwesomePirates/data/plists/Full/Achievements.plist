@@ -1,0 +1,426 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>id</key>
+		<string>ACHID.PotShot</string>
+		<key>GCID</key>
+		<string>CCAID.PotShot</string>
+		<key>OFID</key>
+		<string>1505442</string>
+		<key>name</key>
+		<string>Pot Shot</string>
+		<key>unearnedDesc</key>
+		<string>Shoot a ship from afar.</string>
+		<key>earnedDesc</key>
+		<string>Shot a ship from afar.</string>
+		<key>binary</key>
+		<true/>
+		<key>tier</key>
+		<integer>0</integer>
+		<key>points</key>
+		<integer>20</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>ACHID.DeadeyeDavy</string>
+		<key>GCID</key>
+		<string>CCAID.DeadeyeDavy</string>
+		<key>OFID</key>
+		<string>1505512</string>
+		<key>name</key>
+		<string>Deadeye Davy</string>
+		<key>unearnedDesc</key>
+		<string>Shoot 100 ships without missing.</string>
+		<key>earnedDesc</key>
+		<string>Shot 100 ships without missing.</string>
+		<key>binary</key>
+		<true/>
+		<key>tier</key>
+		<integer>2</integer>
+		<key>points</key>
+		<integer>40</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>ACHID.Smorgasbord</string>
+		<key>GCID</key>
+		<string>CCAID.Smorgasbord</string>
+		<key>OFID</key>
+		<string>1505522</string>
+		<key>name</key>
+		<string>Smorgasbord</string>
+		<key>unearnedDesc</key>
+		<string>Prepare a banquet of 20 tasty morsels for the local marine life.</string>
+		<key>earnedDesc</key>
+		<string>Prepared a banquet of 20 tasty morsels for the local marine life.</string>
+		<key>binary</key>
+		<true/>
+		<key>tier</key>
+		<integer>2</integer>
+		<key>points</key>
+		<integer>40</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>ACHID.CloseButNoCigar</string>
+		<key>GCID</key>
+		<string>CCAID.CloseButNoCigar</string>
+		<key>OFID</key>
+		<string>1505542</string>
+		<key>name</key>
+		<string>Close But No Cigar</string>
+		<key>unearnedDesc</key>
+		<string>Shoot a ship as it ferries into town.</string>
+		<key>earnedDesc</key>
+		<string>Shot a ship as it ferries into town.</string>
+		<key>binary</key>
+		<true/>
+		<key>tier</key>
+		<integer>0</integer>
+		<key>points</key>
+		<integer>20</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>ACHID.TheresNoPlaceLikeHome</string>
+		<key>GCID</key>
+		<string>CCAID.TheresNoPlaceLikeHome</string>
+		<key>OFID</key>
+		<string>1505562</string>
+		<key>name</key>
+		<string>There&apos;s No Place Like Home</string>
+		<key>unearnedDesc</key>
+		<string>Spin an overboard sailor all the way to Kansas in a Tornado Storm.</string>
+		<key>earnedDesc</key>
+		<string>Spun an overboard sailor all the way to Kansas in a Tornado Storm.</string>
+		<key>binary</key>
+		<true/>
+		<key>tier</key>
+		<integer>0</integer>
+		<key>points</key>
+		<integer>20</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>ACHID.Entrapment</string>
+		<key>GCID</key>
+		<string>CCAID.Entrapment</string>
+		<key>OFID</key>
+		<string>1505572</string>
+		<key>name</key>
+		<string>Entrapment</string>
+		<key>unearnedDesc</key>
+		<string>Ensnare 8 ships in a Trawling Net.</string>
+		<key>earnedDesc</key>
+		<string>Ensnared 8 ships in a Trawling Net.</string>
+		<key>binary</key>
+		<true/>
+		<key>tier</key>
+		<integer>2</integer>
+		<key>points</key>
+		<integer>40</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>ACHID.FriendlyFire</string>
+		<key>GCID</key>
+		<string>CCAID.FriendlyFire</string>
+		<key>OFID</key>
+		<string>1505582</string>
+		<key>name</key>
+		<string>Friendly Fire</string>
+		<key>unearnedDesc</key>
+		<string>Shoot 5 navy ships while flying Navy Colors.</string>
+		<key>earnedDesc</key>
+		<string>Shot 5 navy ships while flying Navy Colors.</string>
+		<key>binary</key>
+		<true/>
+		<key>tier</key>
+		<integer>1</integer>
+		<key>points</key>
+		<integer>30</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>ACHID.Kaboom</string>
+		<key>GCID</key>
+		<string>CCAID.Kaboom</string>
+		<key>OFID</key>
+		<string>1505592</string>
+		<key>name</key>
+		<string>Kaboom!</string>
+		<key>unearnedDesc</key>
+		<string>Sink a dozen ships with a Powder Keg deployment.</string>
+		<key>earnedDesc</key>
+		<string>Sunk a dozen ships with a Powder Keg deployment.</string>
+		<key>binary</key>
+		<true/>
+		<key>tier</key>
+		<integer>1</integer>
+		<key>points</key>
+		<integer>30</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>ACHID.DeepFried</string>
+		<key>GCID</key>
+		<string>CCAID.DeepFried</string>
+		<key>OFID</key>
+		<string>1505632</string>
+		<key>name</key>
+		<string>Deep Fried</string>
+		<key>unearnedDesc</key>
+		<string>Plank 3 rival pirates into an ignited Brandy Slick.</string>
+		<key>earnedDesc</key>
+		<string>Planked 3 rival pirates into an ignited Brandy Slick.</string>
+		<key>binary</key>
+		<true/>
+		<key>tier</key>
+		<integer>1</integer>
+		<key>points</key>
+		<integer>30</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>ACHID.RoyalFlush</string>
+		<key>GCID</key>
+		<string>CCAID.RoyalFlush</string>
+		<key>OFID</key>
+		<string>1505682</string>
+		<key>name</key>
+		<string>Royal Flush</string>
+		<key>unearnedDesc</key>
+		<string>Sink 3 navy ships in a Whirlpool.</string>
+		<key>earnedDesc</key>
+		<string>Sunk 3 navy ships in a Whirlpool.</string>
+		<key>binary</key>
+		<true/>
+		<key>tier</key>
+		<integer>1</integer>
+		<key>points</key>
+		<integer>30</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>ACHID.Slimer</string>
+		<key>GCID</key>
+		<string>CCAID.Slimer</string>
+		<key>OFID</key>
+		<string>1505822</string>
+		<key>name</key>
+		<string>Slimer</string>
+		<key>unearnedDesc</key>
+		<string>Sink 15 ships in Acid Pools while aboard the Ghost Ship.</string>
+		<key>earnedDesc</key>
+		<string>Sunk 15 ships in Acid Pools while aboard the Ghost Ship.</string>
+		<key>binary</key>
+		<true/>
+		<key>tier</key>
+		<integer>2</integer>
+		<key>points</key>
+		<integer>40</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>ACHID.RicochetMaster</string>
+		<key>GCID</key>
+		<string>CCAID.RicochetMaster</string>
+		<key>OFID</key>
+		<string>1505702</string>
+		<key>name</key>
+		<string>Ricochet Master</string>
+		<key>unearnedDesc</key>
+		<string>Sink six ships with one cannonball.</string>
+		<key>earnedDesc</key>
+		<string>Sunk six ships with one cannonball.</string>
+		<key>binary</key>
+		<true/>
+		<key>tier</key>
+		<integer>2</integer>
+		<key>points</key>
+		<integer>40</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>ACHID.ScourgeOfTheSevenSeas</string>
+		<key>GCID</key>
+		<string>CCAID.ScourgeOfTheSevenSeas</string>
+		<key>OFID</key>
+		<string>1505502</string>
+		<key>name</key>
+		<string>Scourge of the Seven Seas</string>
+		<key>unearnedDesc</key>
+		<string>Achieve a score of 7,500,000.</string>
+		<key>earnedDesc</key>
+		<string>Achieved a score of 7,500,000.</string>
+		<key>binary</key>
+		<true/>
+		<key>tier</key>
+		<integer>2</integer>
+		<key>points</key>
+		<integer>40</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>ACHID.MasterPlanker</string>
+		<key>GCID</key>
+		<string>CCAID.MasterPlanker</string>
+		<key>OFID</key>
+		<string>1505722</string>
+		<key>name</key>
+		<string>Master Planker</string>
+		<key>unearnedDesc</key>
+		<string>Make 500 rival pirates walk the plank.</string>
+		<key>earnedDesc</key>
+		<string>Made 500 rival pirates walk the plank.</string>
+		<key>binary</key>
+		<false/>
+		<key>tier</key>
+		<integer>2</integer>
+		<key>points</key>
+		<integer>40</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>ACHID.RobbinDaHood</string>
+		<key>GCID</key>
+		<string>CCAID.RobbinDaHood</string>
+		<key>OFID</key>
+		<string>1505742</string>
+		<key>name</key>
+		<string>Robbin&apos; da &apos;hood</string>
+		<key>unearnedDesc</key>
+		<string>Sink the Treasure Fleet 250 times.</string>
+		<key>earnedDesc</key>
+		<string>Sunk the Treasure Fleet 250 times.</string>
+		<key>binary</key>
+		<false/>
+		<key>tier</key>
+		<integer>2</integer>
+		<key>points</key>
+		<integer>40</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>ACHID.BoomShakalaka</string>
+		<key>GCID</key>
+		<string>CCAID.BoomShakalaka</string>
+		<key>OFID</key>
+		<string>1505752</string>
+		<key>name</key>
+		<string>Boom Shakalaka</string>
+		<key>unearnedDesc</key>
+		<string>Sink 500 ships with Powder Kegs.</string>
+		<key>earnedDesc</key>
+		<string>Sunk 500 ships with Powder Kegs.</string>
+		<key>binary</key>
+		<false/>
+		<key>tier</key>
+		<integer>2</integer>
+		<key>points</key>
+		<integer>40</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>ACHID.LikeARecordBaby</string>
+		<key>GCID</key>
+		<string>CCAID.LikeARecordBaby</string>
+		<key>OFID</key>
+		<string>1505772</string>
+		<key>name</key>
+		<string>Like a Record, Baby</string>
+		<key>unearnedDesc</key>
+		<string>Sink 500 ships in Whirlpools.</string>
+		<key>earnedDesc</key>
+		<string>Sunk 500 ships in Whirlpools.</string>
+		<key>binary</key>
+		<false/>
+		<key>tier</key>
+		<integer>1</integer>
+		<key>points</key>
+		<integer>30</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>ACHID.RoadToDamascus</string>
+		<key>GCID</key>
+		<string>CCAID.RoadToDamascus</string>
+		<key>OFID</key>
+		<string>1505792</string>
+		<key>name</key>
+		<string>Road to Damascus</string>
+		<key>unearnedDesc</key>
+		<string>Sink 250 rival pirate ships while flying Navy Colors.</string>
+		<key>earnedDesc</key>
+		<string>Sunk 250 rival pirate ships while flying Navy Colors.</string>
+		<key>binary</key>
+		<false/>
+		<key>tier</key>
+		<integer>2</integer>
+		<key>points</key>
+		<integer>40</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>ACHID.WellDone</string>
+		<key>GCID</key>
+		<string>CCAID.WellDone</string>
+		<key>OFID</key>
+		<string>1505812</string>
+		<key>name</key>
+		<string>Well Done</string>
+		<key>unearnedDesc</key>
+		<string>Sink 250 ships in Brandy Slicks.</string>
+		<key>earnedDesc</key>
+		<string>Sunk 250 ships in Brandy Slicks.</string>
+		<key>binary</key>
+		<false/>
+		<key>tier</key>
+		<integer>1</integer>
+		<key>points</key>
+		<integer>30</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>ACHID.DavyJonesLocker</string>
+		<key>GCID</key>
+		<string>CCAID.DavyJonesLocker</string>
+		<key>OFID</key>
+		<string>1505852</string>
+		<key>name</key>
+		<string>Davy Jones&apos; Locker</string>
+		<key>unearnedDesc</key>
+		<string>Sink 500 ships with the Hand of Davy.</string>
+		<key>earnedDesc</key>
+		<string>Sunk 500 ships with the Hand of Davy.</string>
+		<key>binary</key>
+		<false/>
+		<key>tier</key>
+		<integer>1</integer>
+		<key>points</key>
+		<integer>30</integer>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>ACHID.GreatScott</string>
+		<key>GCID</key>
+		<string>CCAID.GreatScott</string>
+		<key>OFID</key>
+		<string>1505872</string>
+		<key>name</key>
+		<string>Great Scott!</string>
+		<key>unearnedDesc</key>
+		<string>Complete 5 laps in the speedboat with an average speed of at least 88 Mph.</string>
+		<key>earnedDesc</key>
+		<string>Completed 5 laps in the speedboat with an average speed of at least 88 Mph.</string>
+		<key>binary</key>
+		<true/>
+		<key>tier</key>
+		<integer>2</integer>
+		<key>points</key>
+		<integer>40</integer>
+	</dict>
+</array>
+</plist>

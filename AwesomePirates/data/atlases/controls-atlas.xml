@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TextureAtlas imagePath="controls-texture.png">
+    <!-- Created with TexturePacker -->
+    <!-- http://texturepacker.com -->
+    <!-- $TexturePacker:SmartUpdate:e5900b7b22122945a4890536d4f05797$ -->
+    <SubTexture name="large_back" x="0" y="314" width="92" height="65"/>
+    <SubTexture name="large_bumper_left" x="0" y="52" width="125" height="64"/>
+    <SubTexture name="large_bumper_right" x="148" y="0" width="126" height="64"/>
+    <SubTexture name="large_dpad" x="0" y="216" width="96" height="96"/>
+    <SubTexture name="large_dpad_down" x="98" y="164" width="96" height="96"/>
+    <SubTexture name="large_dpad_left" x="225" y="98" width="96" height="96"/>
+    <SubTexture name="large_dpad_right" x="0" y="118" width="96" height="96"/>
+    <SubTexture name="large_dpad_up" x="127" y="66" width="96" height="96"/>
+    <SubTexture name="large_face_a" x="94" y="329" width="72" height="74"/>
+    <SubTexture name="large_face_b" x="192" y="288" width="72" height="74"/>
+    <SubTexture name="large_face_x" x="290" y="282" width="72" height="74"/>
+    <SubTexture name="large_face_y" x="421" y="269" width="72" height="74"/>
+    <SubTexture name="large_guide" x="421" y="98" width="88" height="88" frameX="0" frameY="-2" frameWidth="88" frameHeight="90"/>
+    <SubTexture name="large_start" x="98" y="262" width="92" height="65"/>
+    <SubTexture name="large_thumbstick_left" x="374" y="0" width="96" height="96"/>
+    <SubTexture name="large_thumbstick_right" x="276" y="0" width="96" height="96"/>
+    <SubTexture name="large_trigger_left" x="323" y="190" width="96" height="90"/>
+    <SubTexture name="large_trigger_right" x="323" y="98" width="96" height="90"/>
+    <SubTexture name="pf-1" x="116" y="405" width="56" height="54" frameX="0" frameY="-1" frameWidth="100" frameHeight="100"/>
+    <SubTexture name="pf-2" x="58" y="405" width="56" height="54" frameX="-44" frameY="-1" frameWidth="100" frameHeight="100"/>
+    <SubTexture name="pf-3" x="0" y="437" width="56" height="54" frameX="0" frameY="-46" frameWidth="100" frameHeight="100"/>
+    <SubTexture name="pf-4" x="0" y="381" width="56" height="54" frameX="-44" frameY="-46" frameWidth="100" frameHeight="100"/>
+    <SubTexture name="pf-base" x="196" y="196" width="92" height="90" frameX="-4" frameY="-5" frameWidth="100" frameHeight="100"/>
+    <SubTexture name="progress-wheel" x="421" y="188" width="79" height="79"/>
+    <SubTexture name="saving-prompt" x="0" y="0" width="146" height="50" frameX="0" frameY="0" frameWidth="148" frameHeight="50"/>
+</TextureAtlas>

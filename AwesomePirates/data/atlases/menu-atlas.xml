@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://texturepacker.com-->
+<!-- $TexturePacker:SmartUpdate:66ad908f1b78b6132276ed3a4aca0466$ -->
+<TextureAtlas imagePath="menu-texture.png">
+    <SubTexture name="acts-of-piracy-button" x="312" y="925" width="251" height="66" frameX="-4" frameY="0" frameWidth="257" frameHeight="66"/>
+    <SubTexture name="arrow" x="254" y="1664" width="96" height="54" frameX="0" frameY="-1" frameWidth="96" frameHeight="56"/>
+    <SubTexture name="box2d-logo" x="742" y="1318" width="149" height="37" frameX="-2" frameY="-1" frameWidth="153" frameHeight="41"/>
+    <SubTexture name="buy-now" x="557" y="1431" width="176" height="156"/>
+    <SubTexture name="cm-mascot" x="874" y="1426" width="96" height="94" frameX="0" frameY="-1" frameWidth="96" frameHeight="96"/>
+    <SubTexture name="cm-mascot1" x="2" y="1958" width="108" height="86" frameX="-2" frameY="-2" frameWidth="112" frameHeight="90"/>
+    <SubTexture name="credits-button" x="894" y="1278" width="112" height="48"/>
+    <SubTexture name="ethereal" x="286" y="1213" width="269" height="449"/>
+    <SubTexture name="exit" x="742" y="1357" width="132" height="44" frameX="-3" frameY="0" frameWidth="140" frameHeight="48"/>
+    <SubTexture name="game-concepts-round-button" x="893" y="1328" width="96" height="96"/>
+    <SubTexture name="gamer-picture" x="956" y="602" width="64" height="64"/>
+    <SubTexture name="hall-of-infamy-button" x="312" y="1069" width="245" height="67" frameX="-3" frameY="-2" frameWidth="253" frameHeight="73"/>
+    <SubTexture name="help-ricochet-cone" x="2" y="1275" width="256" height="117"/>
+    <SubTexture name="horiz-rope" x="2" y="2" width="606" height="11" frameX="-1" frameY="0" frameWidth="608" frameHeight="11"/>
+    <SubTexture name="hud-scroll" x="2" y="785" width="480" height="72"/>
+    <SubTexture name="info-button" x="2" y="1394" width="242" height="68" frameX="-1" frameY="-2" frameWidth="244" frameHeight="72"/>
+    <SubTexture name="info-pickup" x="956" y="536" width="64" height="64"/>
+    <SubTexture name="invite-button" x="735" y="1522" width="176" height="114"/>
+    <SubTexture name="large-cannonball" x="956" y="470" width="64" height="64"/>
+    <SubTexture name="large-overboard" x="568" y="15" width="37" height="22" frameX="0" frameY="-2" frameWidth="37" frameHeight="24"/>
+    <SubTexture name="lb-flag" x="894" y="918" width="122" height="114" frameX="-1" frameY="-5" frameWidth="128" frameHeight="128"/>
+    <SubTexture name="lb-friends" x="742" y="1403" width="130" height="44" frameX="0" frameY="-1" frameWidth="130" frameHeight="46"/>
+    <SubTexture name="lb-global" x="894" y="1034" width="115" height="42" frameX="0" frameY="-3" frameWidth="115" frameHeight="46"/>
+    <SubTexture name="lb-local" x="735" y="1449" width="93" height="46"/>
+    <SubTexture name="locked" x="484" y="835" width="77" height="88" frameX="-2" frameY="-2" frameWidth="85" frameHeight="90"/>
+    <SubTexture name="logbook" x="610" y="2" width="396" height="466" frameX="-4" frameY="-2" frameWidth="400" frameHeight="474"/>
+    <SubTexture name="logo" x="568" y="470" width="386" height="334"/>
+    <SubTexture name="mastery-button" x="312" y="993" width="248" height="74" frameX="0" frameY="0" frameWidth="250" frameHeight="74"/>
+    <SubTexture name="menu-button" x="894" y="862" width="128" height="54" frameX="0" frameY="-4" frameWidth="128" frameHeight="60"/>
+    <SubTexture name="menu-close" x="956" y="668" width="48" height="48"/>
+    <SubTexture name="menu-side-scroll" x="2" y="15" width="564" height="768"/>
+    <SubTexture name="no-button" x="894" y="1228" width="112" height="48"/>
+    <SubTexture name="objectives-button" x="312" y="1138" width="242" height="73"/>
+    <SubTexture name="objectives-hat-logbook" x="557" y="1318" width="183" height="111"/>
+    <SubTexture name="ok-button" x="894" y="1178" width="112" height="48"/>
+    <SubTexture name="options-button" x="2" y="1201" width="282" height="72"/>
+    <SubTexture name="potion-pot" x="2" y="859" width="308" height="340" frameX="-9" frameY="0" frameWidth="320" frameHeight="348"/>
+    <SubTexture name="potions-button" x="2" y="1664" width="152" height="292" frameX="0" frameY="-1" frameWidth="152" frameHeight="294"/>
+    <SubTexture name="reset-button" x="894" y="1128" width="112" height="48"/>
+    <SubTexture name="scroll-quarter-small" x="2" y="1464" width="238" height="178" frameX="-2" frameY="-2" frameWidth="240" frameHeight="180"/>
+    <SubTexture name="select-button" x="312" y="859" width="140" height="56"/>
+    <SubTexture name="shady-end-of-turn" x="156" y="1742" width="144" height="283" frameX="-5" frameY="-5" frameWidth="154" frameHeight="293"/>
+    <SubTexture name="shady" x="566" y="806" width="326" height="510"/>
+    <SubTexture name="stats-log-round-button" x="156" y="1644" width="96" height="96"/>
+    <SubTexture name="submit-button" x="894" y="806" width="128" height="54" frameX="0" frameY="-4" frameWidth="128" frameHeight="60"/>
+    <SubTexture name="switch-button" x="484" y="785" width="80" height="48"/>
+    <SubTexture name="vert-rope" x="1008" y="2" width="12" height="434" frameX="0" frameY="-1" frameWidth="12" frameHeight="436"/>
+    <SubTexture name="yes-button" x="894" y="1078" width="112" height="48"/>
+</TextureAtlas>

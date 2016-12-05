@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Leaderboards</key>
+	<dict>
+		<key>1071097</key>
+		<string>CCLBID.HallOfInfamy</string>
+	</dict>
+	<key>Achievements</key>
+	<dict>
+		<key>1505442</key>
+		<string>CCAID.PotShot</string>
+		<key>1505512</key>
+		<string>CCAID.DeadeyeDavy</string>
+		<key>1505522</key>
+		<string>CCAID.Smorgasbord</string>
+		<key>1505542</key>
+		<string>CCAID.CloseButNoCigar</string>
+		<key>1505562</key>
+		<string>CCAID.TheresNoPlaceLikeHome</string>
+		<key>1505572</key>
+		<string>CCAID.Entrapment</string>
+		<key>1505582</key>
+		<string>CCAID.FriendlyFire</string>
+		<key>1505592</key>
+		<string>CCAID.Kaboom</string>
+		<key>1505632</key>
+		<string>CCAID.DeepFried</string>
+		<key>1505682</key>
+		<string>CCAID.RoyalFlush</string>
+		<key>1505822</key>
+		<string>CCAID.Slimer</string>
+		<key>1505702</key>
+		<string>CCAID.RicochetMaster</string>
+		<key>1505502</key>
+		<string>CCAID.ScourgeOfTheSevenSeas</string>
+		<key>1505722</key>
+		<string>CCAID.MasterPlanker</string>
+		<key>1505742</key>
+		<string>CCAID.RobbinDaHood</string>
+		<key>1505752</key>
+		<string>CCAID.BoomShakalaka</string>
+		<key>1505772</key>
+		<string>CCAID.LikeARecordBaby</string>
+		<key>1505792</key>
+		<string>CCAID.RoadToDamascus</string>
+		<key>1505812</key>
+		<string>CCAID.WellDone</string>
+		<key>1505852</key>
+		<string>CCAID.DavyJonesLocker</string>
+		<key>1505872</key>
+		<string>CCAID.GreatScott</string>
+	</dict>
+</dict>
+</plist>

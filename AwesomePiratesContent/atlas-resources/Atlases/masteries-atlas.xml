@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TextureAtlas imagePath="masteries-atlas.png">
+    <!-- Created with TexturePacker -->
+    <!-- http://texturepacker.com -->
+    <!-- $TexturePacker:SmartUpdate:4c99a50571172062c6a64e6708a593ed$ -->
+    <SubTexture name="blaze-of-glory" x="243" y="279" width="76" height="35" frameX="0" frameY="-1" frameWidth="76" frameHeight="37"/>
+    <SubTexture name="cannon-mastery-icon" x="282" y="0" width="120" height="108" frameX="0" frameY="-2" frameWidth="120" frameHeight="110"/>
+    <SubTexture name="cannoneer" x="401" y="283" width="80" height="72" frameX="0" frameY="-5" frameWidth="80" frameHeight="80"/>
+    <SubTexture name="captains-reprieve" x="0" y="242" width="80" height="35"/>
+    <SubTexture name="davys-fury" x="59" y="433" width="53" height="76"/>
+    <SubTexture name="depth-charge" x="235" y="384" width="48" height="48"/>
+    <SubTexture name="enchanted-rejuvenation" x="0" y="161" width="80" height="80"/>
+    <SubTexture name="entanglement" x="324" y="264" width="76" height="51"/>
+    <SubTexture name="friend-or-foe" x="81" y="232" width="76" height="46"/>
+    <SubTexture name="ghostly-aura" x="56" y="356" width="64" height="76"/>
+    <SubTexture name="leagues-of-anguish" x="168" y="232" width="74" height="70" frameX="-2" frameY="0" frameWidth="76" frameHeight="70"/>
+    <SubTexture name="mastery-node-active-bg" x="403" y="194" width="88" height="88"/>
+    <SubTexture name="mastery-node-glow" x="0" y="0" width="158" height="160" frameX="-1" frameY="0" frameWidth="160" frameHeight="160"/>
+    <SubTexture name="mastery-node-highlight" x="403" y="0" width="104" height="104"/>
+    <SubTexture name="mastery-node-inactive-bg" x="403" y="105" width="88" height="88"/>
+    <SubTexture name="mastery-stamp" x="159" y="0" width="122" height="112" frameX="-3" frameY="-9" frameWidth="128" frameHeight="128"/>
+    <SubTexture name="molten-army" x="0" y="356" width="55" height="80"/>
+    <SubTexture name="mortal-impact" x="170" y="369" width="64" height="64"/>
+    <SubTexture name="noxious-straits" x="223" y="434" width="48" height="48"/>
+    <SubTexture name="rogue-mastery-icon" x="282" y="109" width="120" height="94" frameX="0" frameY="-1" frameWidth="120" frameHeight="96"/>
+    <SubTexture name="royal-pardon" x="0" y="437" width="58" height="72" frameX="-1" frameY="0" frameWidth="60" frameHeight="72"/>
+    <SubTexture name="scorched-horizon" x="121" y="384" width="48" height="48"/>
+    <SubTexture name="scoundrels-wager" x="243" y="315" width="70" height="68" frameX="-1" frameY="-2" frameWidth="72" frameHeight="72"/>
+    <SubTexture name="shark-bait" x="324" y="204" width="76" height="59" frameX="0" frameY="-1" frameWidth="76" frameHeight="61"/>
+    <SubTexture name="specter-of-salvation" x="67" y="279" width="62" height="76" frameX="-1" frameY="0" frameWidth="64" frameHeight="76"/>
+    <SubTexture name="thick-as-thieves" x="168" y="434" width="54" height="70" frameX="-1" frameY="-1" frameWidth="56" frameHeight="72"/>
+    <SubTexture name="thunder-maker" x="113" y="433" width="54" height="72"/>
+    <SubTexture name="trail-of-destruction" x="243" y="204" width="80" height="74" frameX="0" frameY="-4" frameWidth="80" frameHeight="80"/>
+    <SubTexture name="twisted-sisters" x="0" y="279" width="66" height="76"/>
+    <SubTexture name="voodoo-mastery-icon" x="159" y="113" width="83" height="118" frameX="0" frameY="-1" frameWidth="83" frameHeight="120"/>
+    <SubTexture name="witch-doctor" x="168" y="303" width="74" height="65" frameX="0" frameY="-3" frameWidth="76" frameHeight="71"/>
+    <SubTexture name="wrecking-ball" x="81" y="161" width="76" height="70"/>
+</TextureAtlas>

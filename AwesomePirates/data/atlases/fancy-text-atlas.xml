@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TextureAtlas imagePath="fancy-text-texture.png">
+    <!-- Created with TexturePacker -->
+    <!-- http://texturepacker.com -->
+    <!-- $TexturePacker:SmartUpdate:aaeb00aba8d470ab4593a548f6dbc7c4$ -->
+    <SubTexture name="achievements-text" x="0" y="0" width="256" height="60"/>
+    <SubTexture name="credits-text" x="0" y="186" width="140" height="60"/>
+    <SubTexture name="info-text" x="142" y="186" width="86" height="60"/>
+    <SubTexture name="leaderboard-text" x="0" y="62" width="254" height="60"/>
+    <SubTexture name="options-text" x="0" y="124" width="148" height="60"/>
+    <SubTexture name="stats-text" x="150" y="124" width="104" height="60"/>
+</TextureAtlas>

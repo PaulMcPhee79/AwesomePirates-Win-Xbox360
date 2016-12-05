@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Leaderboards</key>
+	<dict>
+		<key>1093087</key>
+		<string>CCLBID.HallOfInfamyLite</string>
+	</dict>
+	<key>Achievements</key>
+	<dict>
+		<key>1563992</key>
+		<string>CCAID.PotShotLite</string>
+		<key>1563972</key>
+		<string>CCAID.DeadeyeDavyLite</string>
+		<key>1563962</key>
+		<string>CCAID.SmorgasbordLite</string>
+		<key>1563942</key>
+		<string>CCAID.CloseButNoCigarLite</string>
+		<key>1563932</key>
+		<string>CCAID.TheresNoPlaceLikeHomeLite</string>
+		<key>1563912</key>
+		<string>CCAID.KaboomLite</string>
+		<key>1563732</key>
+		<string>CCAID.RoyalFlushLite</string>
+		<key>1551942</key>
+		<string>CCAID.MasterPlankerLite</string>
+		<key>1551952</key>
+		<string>CCAID.RobbinDaHoodLite</string>
+		<key>1551972</key>
+		<string>CCAID.LikeARecordBabyLite</string>
+	</dict>
+</dict>
+</plist>
